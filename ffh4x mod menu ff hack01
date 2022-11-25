@@ -6,7 +6,7 @@
    "qureka_splash":"0",
    "qureka_status":"0",
    "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
-   "admob_showAdStatus":"1",
+   "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-6438517775836906~1599568929",
    "Admob_Banner":"ca-app-pub-6438517775836906/8706519862",
    "Admob_Interstitial":"ca-app-pub-6438517775836906/2504907746",
